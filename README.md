@@ -77,7 +77,7 @@ To save time, you can set a default parent folder for all *new* projects.
 
     ```html
     <!-- Before -->
-    <input type="text" id="destinationFolderId" value="1xIdbHDj04iCiJS_8s3Y5Jmkh_bHOw4v1" />
+    <input type="text" id="destinationFolderId" value="1xIdbHDj04iCiJS_8s3Y5Jmkh_bHOw42b" />
 
     <!-- After -->
     <input type="text" id="destinationFolderId" value="YOUR_NEW_FOLDER_ID_HERE" />
