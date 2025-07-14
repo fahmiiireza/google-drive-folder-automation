@@ -108,7 +108,7 @@ This tool is built around a specific naming convention to ensure consistency. Th
 
 `[Batch #]_[Project ID]-[Parent Creative]_[Variable Tested]-(Context)`
 
-For a complete breakdown of the rules and variable codes, please see the **`NAMING_CONVENTION.md`** document.
+For a complete breakdown of the rules and variable codes, please see this **`NAMING_CONVENTION.md`** document https://docs.google.com/document/d/1S5oFB_4d3Oj_c2L-Xg_4S9sHr0Icuz3TBHrJvOU-oC8/edit?tab=t.0
 
 ## License
 
