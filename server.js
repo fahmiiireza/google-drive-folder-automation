@@ -58,13 +58,7 @@ app.post('/api/create-folder', async (req, res) => {
         context: req.body.context,
     };
 
-    const task = {
-        script: true,
-        brief: true,
-        source: true,
-        adCopy: true,
-        finalVideo: true,
-    };
+    const task = req.body.assetsToCreate;
 
     // construct naming conventions for files
     let baseName = `${reqBody.batchNum}_${reqBody.packetName}`;
