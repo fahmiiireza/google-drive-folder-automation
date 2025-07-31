@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         try {
-            const response = await fetch("http://localhost:3030/api/create-folder", {
+            const response = await fetch("/api/create-folder", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

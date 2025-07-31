@@ -19,7 +19,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.json());
 
 app.listen(PORT, () => {
-    console.log(`App is listening on http://localhost:${PORT}`);
+    console.log(`App is listening on port ${PORT}`);
 });
 
 app.get('/', (req, res) => {
